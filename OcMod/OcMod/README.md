@@ -1,2 +1,0 @@
-# OcMod
-Terraria Mod
