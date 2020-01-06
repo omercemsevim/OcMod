@@ -31,7 +31,7 @@ namespace OcMod.Items
             //this creates the projectile, you give it the name of the projectile file.
             item.shoot = mod.ProjectileType("NiceProjectile");
             //speed of the projectile.
-            item.shootSpeed = 10f;
+            item.shootSpeed = 4f;
             //make the item be ammo as an arrow.
             item.ammo = AmmoID.Arrow;
         }
